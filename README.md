@@ -5,6 +5,8 @@ Simple app deployment. End to end MLOps
 
 data_given is our remote path where data is originally saved.
 
+in dvc_yaml, we will define all the stages
+
 Project Organization
 ------------
 
