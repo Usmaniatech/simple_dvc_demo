@@ -3,6 +3,8 @@ simple_dvc_demo
 
 Simple app deployment. End to end MLOps
 
+data_given is our remote path where data is originally saved.
+
 Project Organization
 ------------
 
