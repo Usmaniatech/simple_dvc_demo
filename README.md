@@ -7,6 +7,9 @@ data_given is our remote path where data is originally saved.
 
 in dvc_yaml, we will define all the stages
 
+scores.json stores all the prediction scores
+params.json stores all the parameters for those prediction.
+
 Project Organization
 ------------
 
