@@ -17,6 +17,9 @@ dvc metrics show:
 dvc metrics diff:
     to view the difference in results of models with different parameters.
 
+pip install jupyterlab
+jupyter-lab notebook
+
 Project Organization
 ------------
 
