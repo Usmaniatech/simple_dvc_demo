@@ -10,6 +10,13 @@ in dvc_yaml, we will define all the stages
 scores.json stores all the prediction scores
 params.json stores all the parameters for those prediction.
 
+dvc metrics show:
+    to view the results of model.
+    stored in params.json and scores.json
+
+dvc metrics diff:
+    to view the difference in results of models with different parameters.
+
 Project Organization
 ------------
 

@@ -87,7 +87,6 @@ def train_and_evaluate(config_path):
 
 if __name__=="__main__":
     args = argparse.ArgumentParser()
-    default_config_path = os.path.join("config", "params.yaml")
-    args.add_argument("--config", default=default_config_path)
+    args.add_argument("--config", default="params.yaml")
     parsed_args = args.parse_args()
     train_and_evaluate(config_path=parsed_args.config)
