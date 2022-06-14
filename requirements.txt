@@ -12,4 +12,8 @@ dvc
 dvc[gdrive]
 sklearn
 pandas
-
+pytest
+flask
+gunicorn
+tox
+PyYAML
