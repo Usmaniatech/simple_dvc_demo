@@ -17,3 +17,6 @@ flask
 gunicorn
 tox
 PyYAML
+mlflow
+
+
